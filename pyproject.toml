@@ -1,0 +1,6 @@
+[project]
+name = "series-sentinel"
+version = "1.0.0"
+description = "Rolling median/MAD anomaly detection for CSV time series"
+requires-python = ">=3.10"
+dependencies = []
